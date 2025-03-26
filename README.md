@@ -6,8 +6,8 @@ I enjoy solving complex challenges that cybersecurity projects provide. I will b
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/XavierMcCyber/Vulnerability-Management-Program-Implementation/blob/main/README.md)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
